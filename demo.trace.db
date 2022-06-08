@@ -1,0 +1,4 @@
+2022-06-08 13:52:46 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ORIGIN_CURRENCY" no encontrada
+Table "ORIGIN_CURRENCY" not found; SQL statement:
+SELECT * FROM ORIGIN_CURRENCY [42102-200]
